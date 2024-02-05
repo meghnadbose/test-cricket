@@ -24,4 +24,4 @@ Not all draws are boring matches. Close draws, where the team batting last almos
 
 2. I would also use the scraped scorecards to map the run rates of each Test match from 1877 to 2023. I would then analyse the average run rate by year and by decade in men's Tests. This could be an additonal factor in our measurement of the excitement of Test matches.
 
-<a href="https://meghnadbose.github.io/test_cricket" target="_blank">Read the full story here.</a>
+<a href="https://meghnadbose.github.io/test-cricket/" target="_blank">Read the full story here.</a>
