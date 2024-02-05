@@ -12,6 +12,8 @@ Overview of the data analysis process: The first question facing me was - how do
 
 <li>Secondly, how close were the matches? Did the team batting last win by one wicket or nine? Or did the team that bowled last win by 10 runs or 200? Typically, the smaller the margin of victory, the more exciting a match has been. Therefore, our second factor was be the margin of victory.</li></ul>
 
+I also conducted interviews with three eminent cricket writers - Ayaz Memon, Venkatraman Ramnarayan, and Amit Sinha - to get their reactions to my data analysis and their insights on the topic.
+
 What's new: This data project was one in which I did everything from the computation and analysis, to the reporting and front-end HTML coding myself. It was a great experience to be responsible for the full 360-degree production of a computation-aided data story. 
 
 If I have more time to spend on this, I would add another two layers of complexity to the data - 
