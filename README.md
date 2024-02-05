@@ -1,7 +1,5 @@
 <h1>More Results, Closer Matches in Tests Now: But Will That Be Enough to Save Cricket’s 5-Day Format?</h1>
 
-<img src="test_cricket_featured.gif" alt="More Results, Closer Matches in Tests Now: But Will That Be Enough to Save Cricket’s 5-Day Format?">
-
 About the project: Test cricket seems to be replete with such tight finishes nowadays, and it led me to wonder, has men’s Test cricket become more exciting in recent years?
 
 Findings: Even as Test cricket grapples with an existential crisis, an analysis of match results data reveals that the sport's longest format is a tighter contest now than it has been in a century.
